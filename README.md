@@ -1,0 +1,35 @@
+# 30 Days of JavaScript Exercises
+
+This repository contains the exercises for the 30 Days of JavaScript challenge.
+
+## Navigation
+
+- [02_Data_types](./02_Data_types/exercises.md)
+- [03_Booleans_operators_date](./03_Booleans_operators_date/exercises.md)
+- [04_Conditionals](./04_Conditionals/exercises.md)
+- [05_Arrays](./05_Arrays/exercises.md)
+- [06_Loops](./06_Loops/exercises.md)
+- [07_Functions](./07_Functions/exercises.md)
+- [08_Objects](./08_Objects/exercises.md)
+- [09_Higher_order_functions](./09_Higher_order_functions/exercises.md)
+- [10_Sets_and_Maps](./10_Sets_and_Maps/exercises.md)
+- [11_Destructuring_and_spreading](./11_Destructuring_and_spreading/exercises.md)
+- [12_Regular_expressions](./12_Regular_expressions/exercises.md)
+- [13_Console_object_methods](./13_Console_object_methods/exercises.md)
+- [14_Error_handling](./14_Error_handling/exercises.md)
+- [15_Classes](./15_Classes/exercises.md)
+- [16_JSON](./16_JSON/exercises.md)
+- [17_Web_storages](./17_Web_storages/exercises.md)
+- [18_Promises](./18_Promises/exercises.md)
+- [19_Closures](./19_Closures/exercises.md)
+- [20_Writing_clean_codes](./20_Writing_clean_codes/exercises.md)
+- [21_DOM](./21_DOM/exercises.md)
+- [22_Manipulating_DOM_object](./22_Manipulating_DOM_object/exercises.md)
+- [23_Event_listeners](./23_Event_listeners/exercises.md)
+- [24_Project_solar_system](./24_Project_solar_system/exercises.md)
+- [25_World_countries_data_visualization_1](./25_World_countries_data_visualization_1/exercises.md)
+- [26_World_countries_data_visualization_2](./26_World_countries_data_visualization_2/exercises.md)
+- [27_Mini_project_portfolio](./27_Mini_project_portfolio/exercises.md)
+- [28_Mini_project_leaderboard](./28_Mini_project_leaderboard/exercises.md)
+- [29_Mini_project_animating_characters](./29_Mini_project_animating_characters/exercises.md)
+- [30_Mini_project_final](./30_Mini_project_final/exercises.md)
